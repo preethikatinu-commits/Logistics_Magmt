@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import com.example.demo.product_Dto.ProductDto;
 import com.example.demo.product_service.ProductService;
-
+// contoller
 @Controller
 @RequestMapping("/products")
 public class ProductWebController {
